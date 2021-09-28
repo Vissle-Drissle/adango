@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Adango",
   "description": "Removes advertisements and unnecessary elements.",
-  "version": "1.0",
+  "version": "1.5",
   "homepage_url": "https://youtu.be/dQw4w9WgXcQ",
   "icons": {"16": "./awo.png", "32": "./awo.png", "48": "./awo.png", "128": "./awo.png"},
   "browser_action": {"default_icon": {"16": "./awo.png", "32": "./awo.png", "48": "./awo.png", "128": "./awo.png"}},
